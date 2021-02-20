@@ -1,7 +1,6 @@
-# Laravel 6 Tutorial
+# Laravel 6 Project
 
-
-## Project3 : Demo Forum App with Laravel Framework
+ Discussions App with Laravel Framework
 
 ### Features of Project 3
 
