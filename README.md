@@ -1,8 +1,5 @@
 # Laravel 6 Tutorial
 
-This Tutorial is by **ALGORITHM**
-
-[Visit My Channel](https://www.youtube.com/c/algorithmCoding)
 
 ## Project3 : Demo Forum App with Laravel Framework
 
